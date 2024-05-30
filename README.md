@@ -1,1 +1,1 @@
-# neiral-networks
+# neural-netwoks
